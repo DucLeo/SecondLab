@@ -1,0 +1,7 @@
+﻿  test.cpp
+C:\Users\Draken\source\repos\SecondLab\SecondLab\SortingAlgorithm.h(117,74): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Test_SecondLab.vcxproj -> C:\Users\Draken\source\repos\SecondLab\x64\Debug\Test_SecondLab.exe
